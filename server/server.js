@@ -2,7 +2,6 @@ import express from 'express';
 import dotenv from 'dotenv';
 import {connectDB} from './config/database.js';
 import productRoute from './routes/product.route.js'
-import { postProduct } from './controller/controller.js';
 
 dotenv.config();
 

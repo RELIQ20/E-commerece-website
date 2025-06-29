@@ -3,7 +3,6 @@ import Navbar from "./componenets/components/Navbar.jsx"
 import HomePage from "./pages/HomePage.jsx"
 import CreatePage from "./pages/CreatePage.jsx"
 import { Routes, Route } from "react-router-dom"
-import { color } from "framer-motion"
 function App() {
 
   return (

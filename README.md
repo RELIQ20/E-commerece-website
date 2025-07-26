@@ -1,12 +1,36 @@
-# React + Vite
+<h1 align="center">MERN Crash Course 🚀</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Demo App](/frontend/public/screenshot-for-readme.png)
 
-Currently, two official plugins are available:
+[Video Tutorial on Youtube](https://youtu.be/Dukz-3mS3Us)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+About This Course:
 
-## Expanding the ESLint configuration
+-   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
+-   🔥 Build an API
+-   📱 Responsive UI With React.js and ChakraUI
+-   🐞 Error Handling
+-   🌐 Deployment
+-   🚀 And Many More Cool Features
+-   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Setup .env file
+
+```shell
+MONGO_URI=your_mongo_uri
+PORT=5000
+```
+
+### Run this app locally
+
+```shell
+npm run build
+```
+
+### Start the app
+
+```shell
+npm run start
+```
+
+### I'll see you in the next one! 🚀
